@@ -1,0 +1,9 @@
+Class,N,Top1_Correct,Top1_Accuracy,Top2_Correct,Top2_Accuracy,Top3_Correct,Top3_Accuracy
+ptm_other,84,10,11.9,20,23.8,47,56.0
+binding,733,447,61.0,677,92.4,717,97.8
+ptm_phospho,87,4,4.6,11,12.6,38,43.7
+interface,1681,1010,60.1,1548,92.1,1649,98.1
+catalytic,17,1,5.9,4,23.5,11,64.7
+ptm_glyco_lipid,35,0,0.0,0,0.0,3,8.6
+structural,114,42,36.8,49,43.0,53,46.5
+OVERALL,2751,1514,55.0,2309,83.9,2518,91.5

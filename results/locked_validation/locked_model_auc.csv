@@ -1,0 +1,10 @@
+class,af50_n_positive,af50_auc,pdb100_n_positive,pdb100_auc
+catalytic,36,0.970,17,0.820
+binding,906,0.741,733,0.606
+interface,1518,0.633,1681,0.622
+ptm_phospho,780,0.747,87,0.609
+ptm_glyco_lipid,172,0.756,35,0.533
+ptm_other,287,0.743,84,0.659
+structural,80,0.866,114,0.721
+macro_average,,0.779,,0.653
+

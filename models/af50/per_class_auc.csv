@@ -1,0 +1,8 @@
+Class,N_positive,N_total,AUC
+catalytic,36,37635,0.97
+binding,906,37635,0.741
+interface,1518,37635,0.633
+ptm_phospho,780,37635,0.747
+ptm_glyco_lipid,172,37635,0.756
+ptm_other,287,37635,0.743
+structural,80,37635,0.866

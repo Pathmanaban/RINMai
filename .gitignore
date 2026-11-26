@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.vscode/
+predictions/
+cache/
+annotation_cache/
+pdb_cache/
+rin/
+*.pdb
+*.cif
+*.graphml
+*.tmp
+*.log
+

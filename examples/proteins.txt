@@ -1,0 +1,4 @@
+# Example UniProt accessions
+P07949
+P04637
+

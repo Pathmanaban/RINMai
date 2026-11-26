@@ -1,0 +1,10 @@
+model,target,score,n_proteins,n_residues,n_positive,prevalence,auroc,auprc,auprc_over_prevalence,overlap_excluded
+AF_external,binding,normalized_KDE,478,244060,16994,0.069630,0.6426,0.113949,1.64,0
+AF_external,binding,raw_LR,478,244060,16994,0.069630,0.6542,0.118597,1.70,0
+AF_external,catalytic,normalized_KDE,478,244060,3149,0.012903,0.7517,0.042350,3.28,0
+AF_external,catalytic,raw_LR,478,244060,3149,0.012903,0.7639,0.050243,3.89,0
+PDB_matched_nonoverlap,binding,normalized_KDE,485,198285,13096,0.066046,0.6021,0.099535,1.51,8
+PDB_matched_nonoverlap,binding,raw_LR,485,198285,13096,0.066046,0.6479,0.110786,1.68,8
+PDB_matched_nonoverlap,catalytic,normalized_KDE,485,198285,3628,0.018297,0.7251,0.054632,2.99,8
+PDB_matched_nonoverlap,catalytic,raw_LR,485,198285,3628,0.018297,0.7421,0.061693,3.37,8
+
